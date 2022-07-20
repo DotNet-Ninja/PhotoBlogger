@@ -1,0 +1,2 @@
+# PhotoBlogger
+Photo blogging application.
